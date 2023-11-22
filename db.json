@@ -39,32 +39,32 @@
         {
       "userId": 7,
       "id": 7,
-      "title": "Hello, this is a midterm text",
-      "body": "This is the first post in self-made API."
+      "title": "What is the best restaurant in downtown Halifax?",
+      "body": "I guess the Bicycle Thief."
     },
     {
       "userId": 8,
       "id": 8,
-      "title": "My favoriate pet type",
-      "body": "I love cats."
+      "title": "Where is your hometown?",
+      "body": "China"
     },
     {
       "userId": 9,
       "id": 9,
-      "title": "My favorite food",
-      "body": "Steak and shrimp!"
+      "title": "My favorite fruit",
+      "body": "Pineapple!"
     },
     {
       "userId": 10,
       "id": 10,
-      "title": "My favorite subject",
-      "body": "Math and coding couses!"
+      "title": "Are you going to do honor?",
+      "body": "Looking for professors"
     },
     {
       "userId": 11,
       "id": 11,
-      "title": "You future career",
-      "body": "SDE and personal trader"
+      "title": "What courses you are doing for this semester?",
+      "body": "CSCI 4176 and co-op"
     }
   ]
 }
