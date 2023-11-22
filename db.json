@@ -7,13 +7,13 @@
       "body": "This is the first post in self-made API."
     },
     {
-      "userId": 1,
+      "userId": 2,
       "id": 2,
       "title": "My favoriate pet type",
       "body": "I love cats."
     },
     {
-      "userId": 2,
+      "userId": 3,
       "id": 3,
       "title": "My favorite food",
       "body": "Steak and shrimp!"
