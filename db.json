@@ -3,20 +3,20 @@
     {
       "userId": 1,
       "id": 1,
-      "title": "Hello World",
-      "body": "This is the first post in our mock API."
+      "title": "Hello, this is a midterm text",
+      "body": "This is the first post in self-made API."
     },
     {
       "userId": 1,
       "id": 2,
-      "title": "Learning Android Development",
-      "body": "Today, we explore how to create a RecyclerView in Android."
+      "title": "My favoriate pet type",
+      "body": "I love cats."
     },
     {
       "userId": 2,
       "id": 3,
-      "title": "The Joy of Kotlin",
-      "body": "Kotlin has transformed the way we build Android apps. Let's dive in!"
+      "title": "My favorite food",
+      "body": "Steak and shrimp!"
     }
   ]
 }
