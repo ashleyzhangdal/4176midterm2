@@ -17,6 +17,24 @@
       "id": 3,
       "title": "My favorite food",
       "body": "Steak and shrimp!"
+    },
+    {
+      "userId": 4,
+      "id": 4,
+      "title": "My favorite subject",
+      "body": "Math and coding couses!"
+    },
+    {
+      "userId": 5,
+      "id": 5,
+      "title": "You future career",
+      "body": "SDE and personal trader"
+    },
+    {
+      "userId": 6,
+      "id": 6,
+      "title": "Where are you planning to settle down?",
+      "body": "I guess Ottawa or Calgary"
     }
   ]
 }
