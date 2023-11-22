@@ -35,6 +35,42 @@
       "id": 6,
       "title": "Where are you planning to settle down?",
       "body": "I guess Ottawa or Calgary"
+    },
+        {
+      "userId": 7,
+      "id": 7,
+      "title": "Hello, this is a midterm text",
+      "body": "This is the first post in self-made API."
+    },
+    {
+      "userId": 8,
+      "id": 8,
+      "title": "My favoriate pet type",
+      "body": "I love cats."
+    },
+    {
+      "userId": 9,
+      "id": 9,
+      "title": "My favorite food",
+      "body": "Steak and shrimp!"
+    },
+    {
+      "userId": 10,
+      "id": 10,
+      "title": "My favorite subject",
+      "body": "Math and coding couses!"
+    },
+    {
+      "userId": 11,
+      "id": 11,
+      "title": "You future career",
+      "body": "SDE and personal trader"
+    },
+    {
+      "userId": 12,
+      "id": 12,
+      "title": "Where are you planning to settle down?",
+      "body": "I guess Ottawa or Calgary"
     }
   ]
 }
